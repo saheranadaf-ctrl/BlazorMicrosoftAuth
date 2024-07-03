@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BlazorGoogleAuth")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df8bd4e4e60fa28a453932e723291205a1495599")]
 [assembly: System.Reflection.AssemblyProductAttribute("BlazorGoogleAuth")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BlazorGoogleAuth")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

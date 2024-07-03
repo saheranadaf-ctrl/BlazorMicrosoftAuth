@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorGoogleAuth", "BlazorGoogleAuth\BlazorGoogleAuth.csproj", "{CD28567E-6B5B-4325-98FC-A56F9A131F23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorGoogleAuth.Client", "BlazorGoogleAuth.Client\BlazorGoogleAuth.Client.csproj", "{9757C8F8-B3DE-4BD7-84BC-9FB78BE6414B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD28567E-6B5B-4325-98FC-A56F9A131F23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD28567E-6B5B-4325-98FC-A56F9A131F23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD28567E-6B5B-4325-98FC-A56F9A131F23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD28567E-6B5B-4325-98FC-A56F9A131F23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9757C8F8-B3DE-4BD7-84BC-9FB78BE6414B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9757C8F8-B3DE-4BD7-84BC-9FB78BE6414B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9757C8F8-B3DE-4BD7-84BC-9FB78BE6414B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9757C8F8-B3DE-4BD7-84BC-9FB78BE6414B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1BDEB060-59B7-40D5-BB77-9DFA49F64DD8}
+	EndGlobalSection
+EndGlobal

@@ -169,3 +169,4 @@ C:\Users\User\Desktop\Projects\BlazorGoogleAuth\BlazorGoogleAuth\obj\Debug\net8.
 C:\Users\User\Desktop\Projects\BlazorGoogleAuth\BlazorGoogleAuth\obj\Debug\net8.0\BlazorGoogleAuth.genruntimeconfig.cache
 C:\Users\User\Desktop\Projects\BlazorGoogleAuth\BlazorGoogleAuth\obj\Debug\net8.0\ref\BlazorGoogleAuth.dll
 C:\Users\User\Desktop\Projects\BlazorGoogleAuth\BlazorGoogleAuth\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.Google.dll
+C:\Users\User\Desktop\Projects\BlazorGoogleAuth\BlazorGoogleAuth\obj\Debug\net8.0\BlazorGoogleAuth.sourcelink.json

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "0bO4OdvvUsXUEOIzGRQwepa4aEyTN88dL8RWdYxMy0c=",
+  "Hash": "Hg7F7TD0G33HhSO/bG1fDoAbqvsT4YsWT9on3fimn94=",
   "Source": "BlazorGoogleAuth",
   "BasePath": "_content/BlazorGoogleAuth",
   "Mode": "Default",
@@ -147,7 +147,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.4\\runtimes\\browser-wasm\\native\\dotnet.js"
+      "OriginalItemSpec": "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.6\\runtimes\\browser-wasm\\native\\dotnet.js"
     },
     {
       "Identity": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map",
@@ -166,15 +166,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.4\\runtimes\\browser-wasm\\native\\dotnet.js.map"
+      "OriginalItemSpec": "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.6\\runtimes\\browser-wasm\\native\\dotnet.js.map"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.4.15c0xyyfud.js",
+      "Identity": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.6.5kkbszx7gv.js",
       "SourceId": "BlazorGoogleAuth.Client",
       "SourceType": "Project",
       "ContentRoot": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "_framework/dotnet.native.8.0.4.15c0xyyfud.js",
+      "RelativePath": "_framework/dotnet.native.8.0.6.5kkbszx7gv.js",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -185,7 +185,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.4\\runtimes\\browser-wasm\\native\\dotnet.native.js"
+      "OriginalItemSpec": "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.6\\runtimes\\browser-wasm\\native\\dotnet.native.js"
     },
     {
       "Identity": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm",
@@ -204,15 +204,15 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.4\\runtimes\\browser-wasm\\native\\dotnet.native.wasm"
+      "OriginalItemSpec": "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.6\\runtimes\\browser-wasm\\native\\dotnet.native.wasm"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.4.w9268p1mdy.js",
+      "Identity": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.6.zc1wpfa17j.js",
       "SourceId": "BlazorGoogleAuth.Client",
       "SourceType": "Project",
       "ContentRoot": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "_framework/dotnet.runtime.8.0.4.w9268p1mdy.js",
+      "RelativePath": "_framework/dotnet.runtime.8.0.6.zc1wpfa17j.js",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -223,7 +223,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.4\\runtimes\\browser-wasm\\native\\dotnet.runtime.js"
+      "OriginalItemSpec": "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.6\\runtimes\\browser-wasm\\native\\dotnet.runtime.js"
     },
     {
       "Identity": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map",
@@ -242,7 +242,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.4\\runtimes\\browser-wasm\\native\\dotnet.runtime.js.map"
+      "OriginalItemSpec": "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.6\\runtimes\\browser-wasm\\native\\dotnet.runtime.js.map"
     },
     {
       "Identity": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat",
@@ -261,7 +261,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.4\\runtimes\\browser-wasm\\native\\icudt_CJK.dat"
+      "OriginalItemSpec": "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.6\\runtimes\\browser-wasm\\native\\icudt_CJK.dat"
     },
     {
       "Identity": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat",
@@ -280,7 +280,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.4\\runtimes\\browser-wasm\\native\\icudt_EFIGS.dat"
+      "OriginalItemSpec": "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.6\\runtimes\\browser-wasm\\native\\icudt_EFIGS.dat"
     },
     {
       "Identity": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat",
@@ -299,7 +299,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.4\\runtimes\\browser-wasm\\native\\icudt_no_CJK.dat"
+      "OriginalItemSpec": "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.6\\runtimes\\browser-wasm\\native\\icudt_no_CJK.dat"
     },
     {
       "Identity": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.wasm",
@@ -3988,6 +3988,25 @@
       "OriginalItemSpec": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Private.DataContractSerialization.wasm"
     },
     {
+      "Identity": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\obj\\Debug\\net8.0\\compressed\\08bmkfnvon.gz",
+      "SourceId": "BlazorGoogleAuth.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.js.map.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map"
+    },
+    {
       "Identity": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\obj\\Debug\\net8.0\\compressed\\0b4zk9ig8e.gz",
       "SourceId": "BlazorGoogleAuth.Client",
       "SourceType": "Project",
@@ -4064,25 +4083,6 @@
       "OriginalItemSpec": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Threading.Overlapped.wasm"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\obj\\Debug\\net8.0\\compressed\\15c0xyyfud.gz",
-      "SourceId": "BlazorGoogleAuth.Client",
-      "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.native.8.0.4.15c0xyyfud.js.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.4.15c0xyyfud.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.4.15c0xyyfud.js"
-    },
-    {
       "Identity": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\obj\\Debug\\net8.0\\compressed\\17myt01cx6.gz",
       "SourceId": "BlazorGoogleAuth.Client",
       "SourceType": "Project",
@@ -4138,6 +4138,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Collections.wasm"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\obj\\Debug\\net8.0\\compressed\\22jy3brw9o.gz",
+      "SourceId": "BlazorGoogleAuth.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/icudt_EFIGS.dat.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat"
     },
     {
       "Identity": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\obj\\Debug\\net8.0\\compressed\\27nmu8oa3b.gz",
@@ -4594,6 +4613,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Web.wasm"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\obj\\Debug\\net8.0\\compressed\\5kkbszx7gv.gz",
+      "SourceId": "BlazorGoogleAuth.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.native.8.0.6.5kkbszx7gv.js.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.6.5kkbszx7gv.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.6.5kkbszx7gv.js"
     },
     {
       "Identity": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\obj\\Debug\\net8.0\\compressed\\5lijnrakz4.gz",
@@ -5489,44 +5527,6 @@
       "OriginalItemSpec": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.VisualBasic.wasm"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\obj\\Debug\\net8.0\\compressed\\dxmne4n919.gz",
-      "SourceId": "BlazorGoogleAuth.Client",
-      "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.native.wasm.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm"
-    },
-    {
-      "Identity": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\obj\\Debug\\net8.0\\compressed\\dzggs2ojh6.gz",
-      "SourceId": "BlazorGoogleAuth.Client",
-      "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/icudt_EFIGS.dat.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat"
-    },
-    {
       "Identity": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\obj\\Debug\\net8.0\\compressed\\dzh43459lg.gz",
       "SourceId": "BlazorGoogleAuth.Client",
       "SourceType": "Project",
@@ -6021,25 +6021,6 @@
       "OriginalItemSpec": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.WebAssembly.wasm"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\obj\\Debug\\net8.0\\compressed\\idw9ib6a2e.gz",
-      "SourceId": "BlazorGoogleAuth.Client",
-      "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/icudt_CJK.dat.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat"
-    },
-    {
       "Identity": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\obj\\Debug\\net8.0\\compressed\\ifr4mi5z8s.gz",
       "SourceId": "BlazorGoogleAuth.Client",
       "SourceType": "Project",
@@ -6230,23 +6211,23 @@
       "OriginalItemSpec": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.WebAssembly.Authentication.wasm"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\obj\\Debug\\net8.0\\compressed\\kf3kje41rm.gz",
+      "Identity": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\obj\\Debug\\net8.0\\compressed\\km4kgyzldc.gz",
       "SourceId": "BlazorGoogleAuth.Client",
       "SourceType": "Project",
       "ContentRoot": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "_framework/dotnet.runtime.js.map.gz",
+      "RelativePath": "_framework/dotnet.js.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map",
+      "RelatedAsset": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map"
+      "OriginalItemSpec": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js"
     },
     {
       "Identity": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\obj\\Debug\\net8.0\\compressed\\krwte9l83o.gz",
@@ -6342,25 +6323,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Formats.Tar.wasm"
-    },
-    {
-      "Identity": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\obj\\Debug\\net8.0\\compressed\\mhcjttd133.gz",
-      "SourceId": "BlazorGoogleAuth.Client",
-      "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/icudt_no_CJK.dat.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat"
     },
     {
       "Identity": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\obj\\Debug\\net8.0\\compressed\\msr00hr0pq.gz",
@@ -6629,6 +6591,25 @@
       "OriginalItemSpec": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Globalization.Extensions.wasm"
     },
     {
+      "Identity": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\obj\\Debug\\net8.0\\compressed\\p3gszd2y31.gz",
+      "SourceId": "BlazorGoogleAuth.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.runtime.js.map.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map"
+    },
+    {
       "Identity": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\obj\\Debug\\net8.0\\compressed\\p6iy71evuf.gz",
       "SourceId": "BlazorGoogleAuth.Client",
       "SourceType": "Project",
@@ -6836,6 +6817,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.IO.FileSystem.Primitives.wasm"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\obj\\Debug\\net8.0\\compressed\\qtwor88dy9.gz",
+      "SourceId": "BlazorGoogleAuth.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/icudt_CJK.dat.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat"
     },
     {
       "Identity": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\obj\\Debug\\net8.0\\compressed\\r6jz8isacs.gz",
@@ -7104,6 +7104,25 @@
       "OriginalItemSpec": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Console.wasm"
     },
     {
+      "Identity": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\obj\\Debug\\net8.0\\compressed\\tvp3a46f7e.gz",
+      "SourceId": "BlazorGoogleAuth.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/icudt_no_CJK.dat.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat"
+    },
+    {
       "Identity": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\obj\\Debug\\net8.0\\compressed\\txircauap0.gz",
       "SourceId": "BlazorGoogleAuth.Client",
       "SourceType": "Project",
@@ -7237,25 +7256,6 @@
       "OriginalItemSpec": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Net.Requests.wasm"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\obj\\Debug\\net8.0\\compressed\\utc3xni0ps.gz",
-      "SourceId": "BlazorGoogleAuth.Client",
-      "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.js.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js"
-    },
-    {
       "Identity": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\obj\\Debug\\net8.0\\compressed\\uvle0alrk7.gz",
       "SourceId": "BlazorGoogleAuth.Client",
       "SourceType": "Project",
@@ -7370,25 +7370,6 @@
       "OriginalItemSpec": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.IO.wasm"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\obj\\Debug\\net8.0\\compressed\\ver7en1wg4.gz",
-      "SourceId": "BlazorGoogleAuth.Client",
-      "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.js.map.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map"
-    },
-    {
       "Identity": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\obj\\Debug\\net8.0\\compressed\\vgdjbvx0wj.gz",
       "SourceId": "BlazorGoogleAuth.Client",
       "SourceType": "Project",
@@ -7463,25 +7444,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Threading.wasm"
-    },
-    {
-      "Identity": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\obj\\Debug\\net8.0\\compressed\\w9268p1mdy.gz",
-      "SourceId": "BlazorGoogleAuth.Client",
-      "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.runtime.8.0.4.w9268p1mdy.js.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.4.w9268p1mdy.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.4.w9268p1mdy.js"
     },
     {
       "Identity": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\obj\\Debug\\net8.0\\compressed\\wctefw5eaf.gz",
@@ -7634,6 +7596,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Drawing.Primitives.wasm"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\obj\\Debug\\net8.0\\compressed\\xr302aissj.gz",
+      "SourceId": "BlazorGoogleAuth.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.native.wasm.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm"
     },
     {
       "Identity": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\obj\\Debug\\net8.0\\compressed\\xurdj3qfdg.gz",
@@ -7805,6 +7786,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.IO.Pipelines.wasm"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\obj\\Debug\\net8.0\\compressed\\zc1wpfa17j.gz",
+      "SourceId": "BlazorGoogleAuth.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.runtime.8.0.6.zc1wpfa17j.js.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.6.zc1wpfa17j.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.6.zc1wpfa17j.js"
     },
     {
       "Identity": "C:\\Users\\User\\Desktop\\Projects\\BlazorGoogleAuth\\BlazorGoogleAuth.Client\\obj\\Debug\\net8.0\\compressed\\zls97hkxsf.gz",
